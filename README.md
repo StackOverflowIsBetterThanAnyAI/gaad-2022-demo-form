@@ -1,11 +1,9 @@
 # accessibility-demo
 
-Source code for the demo presented in the Global Accessibility Awareness Day (GAAD) presentation in 19 MAY 2022.
+## accessibility errors
 
-## Start the application
-
-Run command: npm install
-
-Run command: npm start
-
-Open browser at URL: http://localhost:3000/
+- 3x form label is not connected to form input (1.3.1 - Info and Relationships)
+- 4x span instead of label (4.1.2 - Name, Role, Value)
+- 3x asterisk in label but input is not required (1.3.1 - Info and Relationships)
+- 1x Loading Spinner does not use aria-live (4.1.3 - Status Messages)
+- 3x fieldset / legend are replaced by non-semantic html (1.3.1 - Info and Relationships)
