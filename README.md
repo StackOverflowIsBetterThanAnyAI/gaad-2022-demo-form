@@ -7,3 +7,4 @@
 - 3x asterisk in label but input is not required (1.3.1 - Info and Relationships)
 - 1x Loading Spinner does not use aria-live (4.1.3 - Status Messages)
 - 3x fieldset / legend are replaced by non-semantic html (1.3.1 - Info and Relationships)
+- 26x text is not contained in a landmark
