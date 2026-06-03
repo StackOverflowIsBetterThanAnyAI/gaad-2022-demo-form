@@ -8,3 +8,4 @@
 - 1x Loading Spinner does not use aria-live (4.1.3 - Status Messages)
 - 3x fieldset / legend are replaced by non-semantic html (1.3.1 - Info and Relationships)
 - 26x text is not contained in a landmark
+- 1x skip to main is not first focussable element
